@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+}
+body{
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(111, 0, 255));
+    height: 773px;
+}
+H1, H2{
+    color: #fff;
+    font-family: 'Boogaloo', cursive;
+}
+p{
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    font-size: 22px;
+}
+
+.casa-arvore{
+   margin-left: 100px;
+   margin-bottom: 9px;
+   border-bottom: 1px solid #00ff40bc;
+}
